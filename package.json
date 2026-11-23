@@ -1,0 +1,7 @@
+{
+  "name": "skillsprout-learnloop",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Prerequisite-aware engineering learning roadmap mini-project",
+  "scripts": {"start": "npx serve ."}
+}
